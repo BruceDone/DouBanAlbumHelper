@@ -4,6 +4,7 @@
 
 
 ======DouBanAlbumHepler V1.0======
+
 Guide:This project is help the douban user to download the album just need to 
 input the first page url ,the application will help you to download high quliatiy of the pic 
 if it support 
